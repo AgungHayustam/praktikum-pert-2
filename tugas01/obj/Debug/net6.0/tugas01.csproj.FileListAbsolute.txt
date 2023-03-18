@@ -1,0 +1,15 @@
+D:\Pemograman\P1\Calculator\tugas01\bin\Debug\net6.0\tugas01.exe
+D:\Pemograman\P1\Calculator\tugas01\bin\Debug\net6.0\tugas01.deps.json
+D:\Pemograman\P1\Calculator\tugas01\bin\Debug\net6.0\tugas01.runtimeconfig.json
+D:\Pemograman\P1\Calculator\tugas01\bin\Debug\net6.0\tugas01.dll
+D:\Pemograman\P1\Calculator\tugas01\bin\Debug\net6.0\tugas01.pdb
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\tugas01.csproj.AssemblyReference.cache
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\tugas01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\tugas01.AssemblyInfoInputs.cache
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\tugas01.AssemblyInfo.cs
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\tugas01.csproj.CoreCompileInputs.cache
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\tugas01.dll
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\refint\tugas01.dll
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\tugas01.pdb
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\tugas01.genruntimeconfig.cache
+D:\Pemograman\P1\Calculator\tugas01\obj\Debug\net6.0\ref\tugas01.dll

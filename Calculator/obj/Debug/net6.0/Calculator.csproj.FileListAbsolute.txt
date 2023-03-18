@@ -1,0 +1,15 @@
+D:\Pemograman\P1\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Pemograman\P1\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Pemograman\P1\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Pemograman\P1\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Pemograman\P1\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\Pemograman\P1\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
